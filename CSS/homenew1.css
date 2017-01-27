@@ -1,0 +1,206 @@
+body{background-color:beige;
+      color: black;}
+
+header { height: 222px;
+         }
+
+header h1 {float: left;
+           margin-top: 35px;
+           background-color: darkcyan;
+           border-radius: 180px;
+           color:white} 
+            
+
+header nav ul li {float:left;
+                  position:relative; 
+                  top:70px; left: 68px;
+                  display:inline-block;}
+
+header nav ul li a {color: white;padding:8px;
+                    font-weight: bold;
+                    display:block;
+                    margin-right: 24px;
+                 text-transform: uppercase;
+                background-color:darkcyan;
+                border-radius: 20px}
+
+p {line-height: 20px;
+   margin-bottom: 40px;
+   color:white;
+   font-family: arial}
+
+
+h1 {font-family: arial;
+    font-size: 500%;
+    font-weight: bold;
+    color: darkcyan;
+    margin-bottom:px;
+    margin-left: 65px;}
+
+h2 {font-weight: bold;
+    position:absolute;
+        text-align: center;
+        color: white;
+        margin-bottom: 25px;
+    font-size: 35px;
+    font-family:arial;
+    text-align:center;
+    text-transform: uppercase;
+    margin: 0 auto;
+     }
+
+#two {width: position:relative; 1200px;
+	height: 380px;  
+	padding-top: 1px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+	background: beige url('http://www.kaizo.net/releases/wp-content/uploads/grains-in-hand.jpg') no-repeat center;}
+
+    
+#two h2 {
+    margin: 180px 0 40px 0;}
+
+.button {display: block;
+        text-align:center;
+        background:darkgrey;
+        color:white;
+        height: 35px;
+        font-size:15px;
+        width: 160px;
+        line-height: 38px;
+        margin:0 auto;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: 2px;
+        border-radius: 120px;
+        position: relative; top: 300px; right: 120px;
+        }
+
+           
+h3 {font-size: 40px; 
+    color: gray;
+    font-family:arial;
+    font-weight: 100;
+     text-align: center;
+    margin-bottom: 30px;}
+
+h4{font-family: arial;
+   font-size: 22px;
+   color:firebrick;
+   font-weight:bolder;
+    margin-bottom: 23px;
+    text-align: center}
+
+
+h5 {font-family: arial;
+    font-size: 22px;
+    color: white;
+    font-weight:bold;
+    margin-right: px;}
+
+.clear {clear: both}
+
+a   {text-decoration:none;
+     font-family: arial;
+     color: white}
+
+
+header a:hover {color: red;}
+
+#two a:hover {color:black}
+
+strong {color: black;}
+
+small {font font-family: arial;
+       font-style: italic; 
+       font-size: 15px;}
+
+.wrapper{padding: 0 10 px;
+        margin: 0 auto;
+        width: 910px;
+}
+
+/* Crisis in Aleppo */
+
+#four {padding 50px 0;
+       background-color: darkcyan;
+    text-align: center;
+    height: 800px;
+    border-radius: 10px}
+
+#four h3{display:block; 
+         margin: 0 auto 15px auto;
+         width:500px;
+         color:white;
+    padding-top: 30px;padding-bottom: 20px}
+
+/* More (FIVE) */
+
+#five {padding: 60px 0;
+       text-align: centre}
+
+#five article {width:440px;
+               height: 250px;
+               float:left;
+               background-color: beige} 
+
+#five article:first-child {margin-right: 30px;}
+
+p small {color:white;
+         }
+
+.more {padding: 4px;
+       color:white; 
+       background-color: firebrick;
+       height:35px;
+       font-size:15px;
+       width: 160px;
+       line-height: 38px;
+       margin:0 auto;
+       text-transform: uppercase;
+       font-weight: bold;
+       letter-spacing: 1px;
+       border-radius: 20px;
+       position: relative; left: 160px
+        }
+
+footer {width: 100 %;
+        background-color: darkcyan;
+        padding: 45px 0px;
+        border-top-right-radius: 120px
+        }
+
+footer nav{float:left; margin-top: -88px;}
+
+footer p{position:relative; left: 300px; top: 44px;
+         font-family:arial;
+         font-size: 22px;
+}
+    
+#footer_red {color:red;font-weight: 700;}
+
+footer nav ul{}
+
+footer nav ul li{;
+                 list-style: none;
+                 display:block;
+                 padding:4px; margin-top: -40px;
+                 line-height: 3
+                }
+
+
+footer nav ul li a {font-family: arial;
+                    font-size: 19px;
+                    font-weight: 400;
+                    text-decoration: none;}
+
+#text {color:white}  
+
+footer a:hover {color: red;}
+
+table th {width: 100%;
+            border: 2px; 
+            color: darkcyan;
+            background-color: darkcyan}
+
+

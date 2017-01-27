@@ -1,0 +1,1 @@
+/* User's information when filling out the volunteer form should be sent here using "post" method, so as the submitted form data doe not appear in the page address field. */
